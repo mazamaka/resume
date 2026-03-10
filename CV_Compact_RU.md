@@ -25,6 +25,7 @@ Full-Stack Python разработчик, 8+ лет. Микросервисы (F
 ## Опыт
 
 **Traffic Devils — Python Developer** | Ноябрь 2022 — настоящее время
+- **MaxBob AI** — нативный голосовой ассистент Apple (SwiftUI iOS/macOS + WebRTC + FastAPI + OpenAI Realtime)
 - Экосистема управления Google Ads (5 сервисов, 800+ .py файлов): админ-платформа, AI task runner (browser-use + LLM), логирование, мониторинг
 - Apple Developer ферма автоматизации (167 .py файлов, SMS-провайдеры, анализ fingerprint)
 - 7+ Telegram ботов, AI-генераторы контента, mobile cloaking backend, Solana трейдинг-бот

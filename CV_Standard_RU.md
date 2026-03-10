@@ -36,6 +36,8 @@ Full-Stack Python разработчик с 8+ годами опыта. Микр
 - Полная платформа управления: админ-dashboard (40+ таблиц БД, аудит, провайдеры карт), AI task runner (browser-use + Claude/GPT, Octo Browser), централизованное логирование
 - Эмуляция поведенческих факторов с анализом метрик и авто-рестартом
 
+**MaxBob AI (флагманский проект):** Нативный голосовой ассистент Apple (SwiftUI iOS + macOS) с WebRTC + FastAPI бэкендом и OpenAI Realtime API
+
 **AI и автоматизация:**
 - AI-генератор сайтов (GPT + Claude + Gemini) — автоматическое создание лендингов с текстом + изображениями
 - Apple Developer Farm (167 .py файлов) — полный пайплайн регистрации с SMS-провайдерами, статистический анализ fingerprint (IPQS, FP Pro, AntCpt), обход Apple antifraud, Octo Browser + Playwright
