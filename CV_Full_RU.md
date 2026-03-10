@@ -16,6 +16,8 @@
 
 Full-Stack Python разработчик с 8+ годами опыта. Строю production-системы "под ключ" — от backend-микросервисов и админ-панелей до AI-powered браузерной автоматизации и DevOps-инфраструктуры. Разработал и запустил 40+ проектов: масштабные платформы управления рекламой, экосистемы AI-агентов, Telegram-боты, blockchain-инструменты.
 
+Глубокая экспертиза в antifraud и fingerprinting: разработка антидетект-браузера с CDP-уровневым спуфингом (Canvas, WebGL, Audio, Navigator, TLS), обход bot-detection систем, анализ antifraud-эндпоинтов (Apple, Google), инструменты мониторинга fingerprint-техник. Прошёл профессиональный курс по антифроду (15 модулей: от DNS-идентификаторов и WebGPU до VM-детекта и деанонимизации).
+
 Сейчас фокус на AI-first разработке: мультиагентные системы на Claude Code, браузерная автоматизация с AI (browser-use), полный цикл разработки где AI-агенты занимаются архитектурой, кодом, тестами, ревью и деплоем.
 
 Сильные DevOps навыки: Docker, CI/CD (GitLab), администрирование Linux-серверов, Portainer, Nginx, мониторинг (Prometheus/Grafana).
@@ -48,13 +50,21 @@ Full-Stack Python разработчик с 8+ годами опыта. Стро
 - Админ-панели: Starlette Admin, Flask-Admin, FastAPI Admin
 - Pydantic, pydantic-settings для конфигурации
 
+### Antifraud и Fingerprinting
+- **Разработка антидетект-браузера** (nodriver + CDP injection) — CreepJS: headless 0%, stealth 0%
+- Спуфинг fingerprint на CDP-уровне: Canvas noise, WebGL vendor/renderer, Audio, Navigator, Screen, Plugins, Battery, Permissions
+- Анализ antifraud-систем: IPQS, FingerprintPro, AntCaptcha, CreepJS, BrowserLeaks, Sannysoft
+- Мониторинг fingerprint-техник (Chrome Extension — перехват Canvas, WebGL, Navigator, MediaDevices API)
+- Обход bot-detection: удаление CDP-маркеров (`cdc_*`, `__webdriver_*`), подмена `navigator.webdriver`, эмуляция `window.chrome`
+- Обход Cloudflare через TLS fingerprinting (tls-client)
+- Docker GPU (NVIDIA) для реального WebGL рендеринга в headless-режиме
+- Знание: DNS fingerprinting, WebGPU, WASM fingerprint, TCP/UDP/QUIC сетевые отпечатки (M1D/M1D1), VPN/Proxy детект (10 методов геолокации), VM-детект и обход, ультразвуковая деанонимизация
+
 ### Браузерная автоматизация и RPA
 - Playwright, Selenium, nodriver
 - Octo Browser API (интеграция с антидетект-браузером)
 - CDP (Chrome DevTools Protocol) — низкоуровневое управление браузером
 - Zennoposter, BAS (Browser Automation Studio)
-- Разработка антидетект-браузера
-- Спуфинг fingerprint: Canvas, WebGL, Audio, Navigator, TLS
 
 ### DevOps и инфраструктура
 - Docker, Docker Compose — контейнеризация всех проектов
@@ -112,7 +122,8 @@ Full-Stack Python разработчик с 8+ годами опыта. Стро
 **Автоматизация Apple Developer (apple_farm, 167 .py файлов):**
 - Полный пайплайн: создание профиля → прогрев → регистрация → верификация → оплата
 - Мульти-провайдерная SMS интеграция (HeroSMS, SMS-Activate, SMSPVA)
-- Анализ fingerprint (IPQS, FP Pro, AntCpt)
+- **Статистический анализ fingerprint** — определение влияния каждого параметра (IPQS fraud score, FP Pro bot probability, AntCpt canvas hash) на успешность регистрации
+- Обход antifraud-систем Apple (анализ эндпоинтов `idmsa.apple.com`, `gsa.apple.com`, заголовков `X-Apple-I-FD-Client-Info`)
 - Octo Browser + Playwright автоматизация, синхронизация с Google Sheets
 
 **Telegram боты (7+ ботов):**
@@ -140,7 +151,7 @@ Full-Stack Python разработчик с 8+ годами опыта. Стро
 - TD Accounts Shop — админ-панель управления магазином аккаунтов
 - URL Validator с мониторингом Prometheus/Grafana
 - PDF Link Checker с отчётами HTML/CSV
-- IPQS Fingerprint Checker (FastAPI + браузерные расширения для Firefox/Chrome)
+- IPQS Fingerprint Checker (FastAPI + браузерные расширения для Firefox/Chrome) — проверка fingerprint-качества профилей через IPQS, FingerprintPro, AntCaptcha, CreepJS
 
 ---
 
