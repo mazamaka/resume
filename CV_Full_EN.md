@@ -4,11 +4,11 @@
 
 Budapest, Hungary (from Kyiv, Ukraine) | $5,500+/mo
 
-- Email: maksym.babenko95@gmail.com
+- Email: mazamaka603@gmail.com
 - Phone: +380 99 045 1609
 - GitHub: [github.com/mazamaka](https://github.com/mazamaka)
 - LinkedIn: [linkedin.com/in/max-bob-python](https://linkedin.com/in/max-bob-python)
-- Telegram: [@mazamaka_bob](https://t.me/mazamaka_bob)
+- Telegram: [@Mazamaka](https://t.me/Mazamaka)
 
 ---
 
@@ -25,7 +25,7 @@ Strong DevOps skills: Docker, CI/CD (GitLab), Linux server administration, Porta
 ## Core Skills
 
 ### Languages & Frameworks
-- **Python** (primary): FastAPI, Flask, Aiohttp, Django (basic)
+- **Python** (primary): FastAPI, Flask, Aiohttp
 - **JavaScript/TypeScript**: React, Chrome Extensions (Manifest V3), jQuery, HTMX
 - **HTML/CSS**: Jinja2, TailwindCSS
 - **SQL**: PostgreSQL, MySQL, SQLite

@@ -4,8 +4,8 @@
 
 Budapest, Hungary | $5,500+/mo
 
-- Email: maksym.babenko95@gmail.com | Phone: +380 99 045 1609
-- GitHub: [mazamaka](https://github.com/mazamaka) | LinkedIn: [max-bob-python](https://linkedin.com/in/max-bob-python) | Telegram: [@mazamaka_bob](https://t.me/mazamaka_bob)
+- Email: mazamaka603@gmail.com | Phone: +380 99 045 1609
+- GitHub: [mazamaka](https://github.com/mazamaka) | LinkedIn: [max-bob-python](https://linkedin.com/in/max-bob-python) | Telegram: [@Mazamaka](https://t.me/Mazamaka)
 
 ---
 

@@ -4,11 +4,11 @@
 
 Будапешт, Венгрия (из Киева, Украина) | $5,500+/мес
 
-- Email: maksym.babenko95@gmail.com
+- Email: mazamaka603@gmail.com
 - Телефон: +380 99 045 1609
 - GitHub: [github.com/mazamaka](https://github.com/mazamaka)
 - LinkedIn: [linkedin.com/in/max-bob-python](https://linkedin.com/in/max-bob-python)
-- Telegram: [@mazamaka_bob](https://t.me/mazamaka_bob)
+- Telegram: [@Mazamaka](https://t.me/Mazamaka)
 
 ---
 
@@ -25,7 +25,7 @@ Full-Stack Python разработчик с 8+ годами опыта. Стро
 ## Ключевые навыки
 
 ### Языки и фреймворки
-- **Python** (основной): FastAPI, Flask, Aiohttp, Django (базовый)
+- **Python** (основной): FastAPI, Flask, Aiohttp
 - **JavaScript/TypeScript**: React, Chrome Extensions (Manifest V3), jQuery, HTMX
 - **HTML/CSS**: Jinja2, TailwindCSS
 - **SQL**: PostgreSQL, MySQL, SQLite
