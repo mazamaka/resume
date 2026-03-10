@@ -36,6 +36,8 @@ Full-Stack Python Developer with 8+ years of experience. Building production mic
 - Built full management platform: admin dashboard (40+ DB tables, audit system, payment providers), AI task runner (browser-use + Claude/GPT, Octo Browser), centralized logging
 - Developed behavioral factor emulation with metrics analysis and auto-restart
 
+**MaxBob AI (flagship project):** Native Apple voice assistant (SwiftUI iOS + macOS) with WebRTC + FastAPI backend and OpenAI Realtime API
+
 **AI & Automation:**
 - AI website generator (GPT + Claude + Gemini) — automated landing page creation with text + images
 - Apple Developer Farm (167 .py files) — full registration pipeline with SMS providers, statistical fingerprint analysis (IPQS, FP Pro, AntCpt), Apple antifraud bypass, Octo Browser + Playwright

@@ -25,6 +25,7 @@ Full-Stack Python Developer, 8+ years. Building microservices (FastAPI), AI-powe
 ## Experience
 
 **Traffic Devils — Python Developer** | Nov 2022 — Present
+- **MaxBob AI** — native Apple voice assistant (SwiftUI iOS/macOS + WebRTC + FastAPI + OpenAI Realtime)
 - Google Ads management ecosystem (5 services, 800+ .py files): admin platform, AI task runner (browser-use + LLM), logging, monitoring
 - Apple Developer automation farm (167 .py files, SMS providers, fingerprint analysis)
 - 7+ Telegram bots, AI content generators, mobile cloaking backend, Solana trading bot

@@ -114,6 +114,10 @@ Led development of a comprehensive Google Ads farm management ecosystem — a mu
 - **chrome-pf-api** — Chrome behavioral factor emulation and metrics analysis
 - **checker-chrome-pf-api** — Automated health checker with auto-restart for failed emulations
 
+**MaxBob AI (current flagship project):**
+- Native Apple voice assistant — SwiftUI iOS + macOS app with real-time AI conversations
+- WebRTC + FastAPI backend with OpenAI Realtime API integration
+
 **AI & Content Generation:**
 - AI-powered website auto-generation service (GPT, Claude, Gemini) — generates landing pages with text + images
 - White Page Generator v1 & v2 — automated landing page creation with AI content
