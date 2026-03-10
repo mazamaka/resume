@@ -2,7 +2,7 @@
 
 **Python Developer | AI Automation | DevOps**
 
-Budapest, Hungary | $8,000+/mo | maksym.babenko95@gmail.com | [GitHub](https://github.com/mazamaka) | [LinkedIn](https://linkedin.com/in/max-bob-python) | [@mazamaka_bob](https://t.me/mazamaka_bob)
+Budapest, Hungary | $8,000+/mo | mazamaka603@gmail.com | [GitHub](https://github.com/mazamaka) | [LinkedIn](https://linkedin.com/in/max-bob-python) | [@Mazamaka](https://t.me/Mazamaka)
 
 ---
 
