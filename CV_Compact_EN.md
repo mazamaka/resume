@@ -52,5 +52,5 @@ Social media automation, Telegram services, Zennoposter, sysadmin
 ---
 
 **Education:** KNUTD, Mechatronics & Computer Technologies (2013–2019, Honors)
-**Languages:** Ukrainian, Russian (Fluent) | English (Upper-Intermediate)
+**Languages:** Ukrainian, Russian (Fluent) | English (Intermediate)
 **Hobbies:** Cycling, wakeboarding, tennis, Muay Thai, running

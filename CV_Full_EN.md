@@ -244,7 +244,7 @@ Mechatronics and Computer Technologies — Electrical Engineering
 
 - Ukrainian — Fluent
 - Russian — Fluent
-- English — Upper-Intermediate (Technical)
+- English — Intermediate (reading documentation, technical communication)
 
 ---
 

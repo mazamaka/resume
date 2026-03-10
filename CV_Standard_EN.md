@@ -104,7 +104,7 @@ Development with **Claude Code** + custom 14-agent system (architect, developer,
 
 ## Languages
 
-Ukrainian (Fluent) | Russian (Fluent) | English (Upper-Intermediate)
+Ukrainian (Fluent) | Russian (Fluent) | English (Intermediate)
 
 ## Hobbies
 
