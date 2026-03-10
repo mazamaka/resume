@@ -2,7 +2,7 @@
 
 **Python Developer | AI Automation Engineer | DevOps**
 
-Budapest, Hungary | $5,500+/mo
+Budapest, Hungary | $6,000+/mo
 
 - Email: mazamaka603@gmail.com | Phone: +380 99 045 1609
 - GitHub: [mazamaka](https://github.com/mazamaka) | LinkedIn: [max-bob-python](https://linkedin.com/in/max-bob-python) | Telegram: [@Mazamaka](https://t.me/Mazamaka)

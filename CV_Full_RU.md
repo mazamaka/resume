@@ -2,7 +2,7 @@
 
 **Python Developer | AI Automation Engineer | DevOps**
 
-Будапешт, Венгрия (из Киева, Украина) | $5,500+/мес
+Будапешт, Венгрия (из Киева, Украина) | $6,000+/мес
 
 - Email: mazamaka603@gmail.com
 - Телефон: +380 99 045 1609

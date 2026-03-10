@@ -2,7 +2,7 @@
 
 **Python Developer | AI Automation | DevOps**
 
-Будапешт, Венгрия | $5,500+/мес | mazamaka603@gmail.com | [GitHub](https://github.com/mazamaka) | [LinkedIn](https://linkedin.com/in/max-bob-python) | [@Mazamaka](https://t.me/Mazamaka)
+Будапешт, Венгрия | $6,000+/мес | mazamaka603@gmail.com | [GitHub](https://github.com/mazamaka) | [LinkedIn](https://linkedin.com/in/max-bob-python) | [@Mazamaka](https://t.me/Mazamaka)
 
 ---
 
