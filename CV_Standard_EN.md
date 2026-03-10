@@ -11,7 +11,7 @@ Budapest, Hungary | $5,500+/mo
 
 ## Profile
 
-Full-Stack Python Developer with 8+ years of experience. Building production microservices (FastAPI), AI-powered browser automation (browser-use + Claude/GPT), multi-agent systems, and DevOps infrastructure. Shipped 40+ projects — from large-scale ad management platforms (800+ Python files) to Telegram bots and blockchain tools. Currently doing AI-first development with Claude Code and custom 14-agent system.
+Full-Stack Python Developer with 8+ years of experience. Building production microservices (FastAPI), AI-powered browser automation (browser-use + Claude/GPT), multi-agent systems, and DevOps infrastructure. Deep expertise in antifraud & fingerprinting: custom antidetect browser with CDP-level spoofing, bot-detection bypass, antifraud system analysis. Shipped 40+ projects. AI-first development with Claude Code and custom 14-agent system.
 
 ---
 
@@ -21,6 +21,7 @@ Full-Stack Python Developer with 8+ years of experience. Building production mic
 **AI/LLM:** Claude API, OpenAI API (GPT-4), browser-use, multi-agent systems, NLP (transformers), Stable Diffusion
 **Frontend:** React, TypeScript, Jinja2, HTMX, TailwindCSS, Chrome Extensions (MV3)
 **Automation:** Playwright, Selenium, nodriver, Octo Browser API, CDP, Zennoposter, BAS
+**Antifraud:** Fingerprint spoofing (Canvas, WebGL, Audio, Navigator, TLS), CDP injection, bot-detection bypass, IPQS/CreepJS/BrowserLeaks analysis
 **DevOps:** Docker/Compose, GitLab CI/CD, Nginx, Portainer, Prometheus/Grafana, MinIO, Linux (Ubuntu/Debian), Cloudflare
 **Blockchain:** Solana (copy-trading bot), Web3, NFT marketplaces
 **Bots:** aiogram 3, Pyrogram, Telethon, Google Sheets API
@@ -37,7 +38,7 @@ Full-Stack Python Developer with 8+ years of experience. Building production mic
 
 **AI & Automation:**
 - AI website generator (GPT + Claude + Gemini) — automated landing page creation with text + images
-- Apple Developer Farm (167 .py files) — full registration pipeline with SMS providers, fingerprint analysis, Octo Browser + Playwright
+- Apple Developer Farm (167 .py files) — full registration pipeline with SMS providers, statistical fingerprint analysis (IPQS, FP Pro, AntCpt), Apple antifraud bypass, Octo Browser + Playwright
 - Self-learning Browser Automation System (FastAPI + React + browser-use + Claude Sonnet)
 - Antidetect browser (nodriver) with CDP-level fingerprint spoofing
 

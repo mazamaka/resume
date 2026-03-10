@@ -6,7 +6,7 @@
 
 ---
 
-Full-Stack Python разработчик, 8+ лет. Микросервисы (FastAPI), AI-автоматизация (Claude/GPT + browser-use), инфраструктура. 40+ проектов в продакшене, 3,500+ Python файлов.
+Full-Stack Python разработчик, 8+ лет. Микросервисы (FastAPI), AI-автоматизация (Claude/GPT + browser-use), antifraud/fingerprinting (CDP spoofing, bot-detection bypass), инфраструктура. 40+ проектов в продакшене, 3,500+ Python файлов.
 
 ---
 
@@ -15,6 +15,7 @@ Full-Stack Python разработчик, 8+ лет. Микросервисы (F
 **Backend:** FastAPI, Flask, SQLAlchemy, PostgreSQL, Redis, Celery, RabbitMQ, Temporal
 **AI:** Claude API/Code, OpenAI GPT-4, browser-use, мультиагентные системы, NLP
 **Автоматизация:** Playwright, Selenium, Octo Browser, CDP, nodriver-antidetect
+**Antifraud:** Fingerprint spoofing (Canvas, WebGL, Audio, TLS), CDP injection, bot-detection bypass, IPQS/CreepJS
 **DevOps:** Docker, GitLab CI/CD, Nginx, Portainer, Prometheus/Grafana, Linux
 **Frontend:** React, TypeScript, Jinja2, HTMX, Chrome Extensions
 **Другое:** Solana/Web3, aiogram 3, Pyrogram, Google Sheets API
@@ -45,9 +46,9 @@ Google/Telegram фермы, банковская автоматизация, р�
 
 ## Ключевое
 
+- **Antifraud & Fingerprinting:** разработка антидетект-браузера (CDP spoofing: Canvas, WebGL, Audio, Navigator, TLS), обход bot-detection (Apple, Google), анализ IPQS/CreepJS/FingerprintPro, курс по антифроду (15 модулей)
 - AI-first разработка через Claude Code + кастомная система из 14 агентов
-- Open source: octo-mcp (MCP для Octo Browser), nodriver-antidetect, antifraud-spy Chrome extension
-- Глубокая экспертиза в antifraud: Canvas, WebGL, TLS fingerprinting, CDP spoofing
+- Open source: nodriver-antidetect (headless 0%, stealth 0%), antifraud-spy (мониторинг fingerprint API), octo-mcp, detect-expert-client (TLS bypass)
 
 ---
 

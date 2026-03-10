@@ -16,6 +16,8 @@ Budapest, Hungary (from Kyiv, Ukraine) | $5,500+/mo
 
 Full-Stack Python Developer with 8+ years of experience building production systems end-to-end — from backend microservices and admin panels to AI-powered browser automation and DevOps infrastructure. Developed and shipped 40+ projects including large-scale ad management platforms, AI agent ecosystems, Telegram bots, and blockchain tools.
 
+Deep expertise in antifraud and fingerprinting: built custom antidetect browser with CDP-level spoofing (Canvas, WebGL, Audio, Navigator, TLS), bot-detection bypass, antifraud endpoint analysis (Apple, Google), fingerprint monitoring tools. Completed professional antifraud course (15 modules: DNS identifiers, WebGPU, VM detection, deanonymization, and more).
+
 Currently focused on AI-first development: building multi-agent systems with Claude Code, browser automation with AI (browser-use), and full-cycle development where AI agents handle architecture, coding, testing, review, and deployment.
 
 Strong DevOps skills: Docker, CI/CD (GitLab), Linux server administration, Portainer, Nginx, monitoring (Prometheus/Grafana).
@@ -48,13 +50,21 @@ Strong DevOps skills: Docker, CI/CD (GitLab), Linux server administration, Porta
 - Admin panels: Starlette Admin, Flask-Admin, FastAPI Admin
 - Pydantic, pydantic-settings for configuration
 
+### Antifraud & Fingerprinting
+- **Custom antidetect browser development** (nodriver + CDP injection) — CreepJS: headless 0%, stealth 0%
+- CDP-level fingerprint spoofing: Canvas noise, WebGL vendor/renderer, Audio, Navigator, Screen, Plugins, Battery, Permissions
+- Antifraud system analysis: IPQS, FingerprintPro, AntCaptcha, CreepJS, BrowserLeaks, Sannysoft
+- Fingerprint monitoring tool (Chrome Extension — intercepts Canvas, WebGL, Navigator, MediaDevices API calls)
+- Bot-detection bypass: CDP marker removal (`cdc_*`, `__webdriver_*`), `navigator.webdriver` spoofing, `window.chrome` emulation
+- Cloudflare bypass via TLS fingerprinting (tls-client)
+- Docker GPU (NVIDIA) for real WebGL rendering in headless mode
+- Knowledge: DNS fingerprinting, WebGPU, WASM fingerprint, TCP/UDP/QUIC network fingerprints (M1D/M1D1), VPN/Proxy detection (10 geolocation methods), VM detection & bypass, ultrasonic deanonymization
+
 ### Browser Automation & RPA
 - Playwright, Selenium, nodriver
 - Octo Browser API (antidetect browser integration)
 - CDP (Chrome DevTools Protocol) — low-level browser control
 - Zennoposter, BAS (Browser Automation Studio)
-- Custom antidetect browser development
-- Fingerprint spoofing: Canvas, WebGL, Audio, Navigator, TLS
 
 ### DevOps & Infrastructure
 - Docker, Docker Compose — containerization of all projects
@@ -112,7 +122,8 @@ Led development of a comprehensive Google Ads farm management ecosystem — a mu
 **Apple Developer Automation (apple_farm, 167 .py files):**
 - Full pipeline: profile creation → warm-up → registration → verification → payment
 - Multi-provider SMS integration (HeroSMS, SMS-Activate, SMSPVA)
-- Fingerprint analysis (IPQS, FP Pro, AntCpt)
+- **Statistical fingerprint analysis** — measuring each parameter's impact (IPQS fraud score, FP Pro bot probability, AntCpt canvas hash) on registration success rate
+- Apple antifraud bypass (endpoint analysis: `idmsa.apple.com`, `gsa.apple.com`, headers: `X-Apple-I-FD-Client-Info`)
 - Octo Browser + Playwright automation, Google Sheets sync
 
 **Telegram Bots (7+ bots):**
@@ -140,7 +151,7 @@ Led development of a comprehensive Google Ads farm management ecosystem — a mu
 - TD Accounts Shop — admin panel for account store management
 - URL Validator with Prometheus/Grafana monitoring
 - PDF Link Checker with HTML/CSV reports
-- IPQS Fingerprint Checker (FastAPI + browser extensions for Firefox/Chrome)
+- IPQS Fingerprint Checker (FastAPI + browser extensions for Firefox/Chrome) — fingerprint quality analysis via IPQS, FingerprintPro, AntCaptcha, CreepJS
 
 ---
 

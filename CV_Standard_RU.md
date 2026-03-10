@@ -11,7 +11,7 @@
 
 ## Профиль
 
-Full-Stack Python разработчик с 8+ годами опыта. Микросервисы (FastAPI), AI-powered браузерная автоматизация (browser-use + Claude/GPT), мультиагентные системы, DevOps. 40+ проектов в продакшене — от платформ управления рекламой (800+ Python файлов) до Telegram-ботов и blockchain-инструментов. AI-first разработка через Claude Code с кастомной системой из 14 агентов.
+Full-Stack Python разработчик с 8+ годами опыта. Микросервисы (FastAPI), AI-powered браузерная автоматизация (browser-use + Claude/GPT), мультиагентные системы, DevOps. Глубокая экспертиза в antifraud и fingerprinting: разработка антидетект-браузера с CDP-спуфингом, обход bot-detection, анализ antifraud-систем. 40+ проектов в продакшене. AI-first разработка через Claude Code с кастомной системой из 14 агентов.
 
 ---
 
@@ -21,6 +21,7 @@ Full-Stack Python разработчик с 8+ годами опыта. Микр
 **AI/LLM:** Claude API, OpenAI API (GPT-4), browser-use, мультиагентные системы, NLP (transformers), Stable Diffusion
 **Frontend:** React, TypeScript, Jinja2, HTMX, TailwindCSS, Chrome Extensions (MV3)
 **Автоматизация:** Playwright, Selenium, nodriver, Octo Browser API, CDP, Zennoposter, BAS
+**Antifraud:** Fingerprint spoofing (Canvas, WebGL, Audio, Navigator, TLS), CDP injection, bot-detection bypass, IPQS/CreepJS/BrowserLeaks анализ
 **DevOps:** Docker/Compose, GitLab CI/CD, Nginx, Portainer, Prometheus/Grafana, MinIO, Linux (Ubuntu/Debian), Cloudflare
 **Blockchain:** Solana (копитрейдинг-бот), Web3, NFT
 **Боты:** aiogram 3, Pyrogram, Telethon, Google Sheets API
@@ -37,7 +38,7 @@ Full-Stack Python разработчик с 8+ годами опыта. Микр
 
 **AI и автоматизация:**
 - AI-генератор сайтов (GPT + Claude + Gemini) — автоматическое создание лендингов с текстом + изображениями
-- Apple Developer Farm (167 .py файлов) — полный пайплайн регистрации с SMS-провайдерами, анализом fingerprint, Octo Browser + Playwright
+- Apple Developer Farm (167 .py файлов) — полный пайплайн регистрации с SMS-провайдерами, статистический анализ fingerprint (IPQS, FP Pro, AntCpt), обход Apple antifraud, Octo Browser + Playwright
 - Самообучающаяся система автоматизации браузера (FastAPI + React + browser-use + Claude Sonnet)
 - Антидетект-браузер (nodriver) с CDP-уровневым спуфингом fingerprint
 
