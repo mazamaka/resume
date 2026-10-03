@@ -27,4 +27,4 @@ Python Developer | AI Automation Engineer | DevOps
 - 40+ production projects
 - 3,500+ Python files shipped
 - 14-agent AI development system (Claude Code)
-- Budapest, Hungary
+- Prague, Czechia

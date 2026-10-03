@@ -2,7 +2,7 @@
 
 **Python Developer | AI Automation Engineer | DevOps**
 
-Budapest, Hungary (from Kyiv, Ukraine) | $8,000+/mo
+Prague, Czechia (from Kyiv, Ukraine) | $8,000+/mo
 
 - Email: mazamaka603@gmail.com
 - Phone: +380 99 045 1609
