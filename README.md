@@ -2,6 +2,8 @@
 
 Python Developer | AI Automation Engineer | DevOps
 
+🌐 **[Portfolio & case studies](https://cv.maxbob.xyz/)** · [GitHub profile](https://github.com/mazamaka)
+
 ## CV Versions
 
 ### English
